@@ -8,7 +8,7 @@
       "name": "C++ Launch (Windows)",
       "type": "cppvsdbg",
       "request": "launch",
-      "program": "${workspaceRoot}/out/build/default/Debug/main.exe",
+      "program": "${workspaceRoot}/out/build/default/Debug/omnicept-facecam.exe",
       "cwd": "${workspaceRoot}/out/build/default/Debug"
     }
   ]

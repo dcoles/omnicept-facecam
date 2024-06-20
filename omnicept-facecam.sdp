@@ -1,0 +1,9 @@
+v=0
+o=- 0 0 IN IP4 127.0.0.1
+s=omnicept-facecam
+c=IN IP4 127.0.0.1
+t=0 0
+a=recvonly
+m=video 5000 RTP/AVP 127
+a=rtpmap:127 raw/90000
+a=fmtp:127 sampling=YCbCr-4:2:2; width=400; height=400; depth=8; exactframerate=90000/1001
